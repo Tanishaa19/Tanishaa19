@@ -78,14 +78,6 @@ class TanishaArora:
 2023 - 2027  
 CGPA: **8.95**
 
-### VMV College
-Higher Secondary Certificate  
-Score: **73.83%**
-
-### Central India Public School
-Secondary School Certificate  
-Score: **83.6%**
-
 </td>
 </tr>
 </table>
