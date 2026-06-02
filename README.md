@@ -42,16 +42,17 @@ class TanishaArora:
         self.interests = [
             "Artificial Intelligence",
             "Machine Learning",
-            "Data Analytics",
-            "Web Design"
+            "Natural Language Processing",
+            "Generative AI"
         ]
 
     def current_focus(self):
         return [
-            "Exploratory Data Analysis",
-            "Building Python Projects",
-            "Improving DSA Skills",
-            "Learning AI/ML"
+            "Retrieval-Augmented Generation (RAG)",
+            "Semantic Search Systems",
+            "FastAPI Development",
+            "Natural Language Processing",
+            "Large Language Model Applications"
         ]
 ```
 
@@ -69,63 +70,75 @@ class TanishaArora:
 
 ## Education
 
-<table>
-<tr>
-<td width="70%">
-
 ### Shri Ramdeobaba College of Engineering & Management
 **B.Tech in Data Science**  
 2023 - 2027  
-CGPA: **8.95**
-
-</td>
-</tr>
-</table>
+**CGPA: 8.95**
 
 ---
 
 ## Coursework
 
-<div align="center">
-
-| Data Structures & Algorithms | Database Management System |
-|---|---|
-| Artificial Intelligence | Object Oriented Programming |
-| Machine Learning | Data Analytics |
-
-</div>
+- Data Structures & Algorithms
+- Database Management System
+- Artificial Intelligence
+- Object-Oriented Programming
+- Machine Learning
+- Data Analytics
 
 ---
 
 ## Projects
 
+### Semantic Search System Using Transformer Embeddings
+- Developed a semantic search system using transformer embeddings and cosine similarity.
+- Implemented contextual information retrieval and result ranking.
+- **Technologies:** Python, NLP, Sentence Transformers, Cosine Similarity
+
+### Retrieval-Augmented Generation (RAG) System
+- Built RAG pipelines for context-aware question answering.
+- Implemented semantic retrieval and embedding-based workflows.
+- **Technologies:** Python, NLP, RAG, LLM Applications
+
+### FastAPI-Based LLM Application
+- Developed FastAPI APIs with CRUD operations and query parameters.
+- Implemented NLP-based query processing.
+- **Technologies:** Python, FastAPI, NLP
+
+### Named Entity Recognition (NER) Using NLP
+- Implemented Named Entity Recognition for extracting structured information from text.
+- Applied NLP techniques for entity identification and classification.
+- **Technologies:** Python, NLP, NER
+
+### Fashion MNIST Classification
+- Developed an image classification model for clothing category prediction.
+- Performed model evaluation using the Fashion MNIST dataset.
+- **Technologies:** Python, Machine Learning
+
+### Power BI Dashboards
+- Built interactive dashboards using Global Superstore and Netflix datasets.
+- Created KPI-based reports using DAX and slicers.
+- **Technologies:** Power BI, DAX
+
 ### Python Dataset Analysis
-- Data cleaning and preprocessing using Pandas & NumPy
-- Visualization using Matplotlib
-- Performed exploratory data analysis on datasets
-
-### Portfolio Website
-- Responsive portfolio website using HTML & CSS
-- Clean and modern UI design
-
-### Student Attendance System
-- Tkinter based GUI application
-- Authentication and attendance management system
-- Built completely using Python
+- Performed data cleaning, preprocessing, visualization, and exploratory data analysis.
+- Generated insights from structured datasets.
+- **Technologies:** Python, Pandas, NumPy, Matplotlib
 
 ---
 
 ## Certifications
 
-- Networking Basics — Cisco
-- Visual Elements of User Interface Design — Coursera
+- Google Project Management Certificate
+- Cisco Networking Basics
+- Visual Elements of User Interface Design (Coursera)
 
 ---
 
 ## Interests
 
 ```text
-AI/ML • Data Analytics • Web Design • Problem Solving • Development
+Artificial Intelligence • Generative AI • Machine Learning • NLP • Data Analytics
 ```
 
 ---
@@ -133,36 +146,35 @@ AI/ML • Data Analytics • Web Design • Problem Solving • Development
 ## GitHub Stats
 
 <div align="center">
-  <h2>My GitHub Stats</h2>
-  <hr style="width:80%; margin: 20px auto;">
-  <table>
-    <tr>
-      <td colspan="2">
-        <img src="https://github-profile-trophy.vercel.app/?username=tanishaa19&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="Profile Trophies" />
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=tanishaa19&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
-      </td>
-      <td style="padding: 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishaa19&theme=tokyonight&hide_title=true&hide_border=true" alt="Streak Stats" />
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishaa19&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-      </td>
-      <td style="padding: 10px;">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishaa19&theme=tokyo-night" alt="Activity Graph" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" style="padding-top: 10px;">
-        <img src="https://visitor-badge.laobi.icu/badge?page_id=tanishaa19.tanishaa19" alt="Visitor Badge" />
-      </td>
-    </tr>
-  </table>  
+
+<img src="https://github-profile-trophy.vercel.app/?username=tanishaa19&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=tanishaa19&show_icons=true&hide_border=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishaa19&theme=tokyonight&hide_title=true&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishaa19&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishaa19&theme=tokyo-night" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=tanishaa19.tanishaa19" />
+
 </div>
 
 ---
