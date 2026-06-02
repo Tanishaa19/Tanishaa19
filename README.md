@@ -129,7 +129,6 @@ class TanishaArora:
 
 ## Certifications
 
-- Google Project Management Certificate
 - Cisco Networking Basics
 - Visual Elements of User Interface Design (Coursera)
 
